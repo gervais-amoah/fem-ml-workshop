@@ -1,5 +1,5 @@
-import "@tensorflow/tfjs";
 import * as cocossd from "@tensorflow-models/coco-ssd";
+import "@tensorflow/tfjs";
 import { handleFilePicker, showResult } from "./utils";
 
 let model;
