@@ -17,6 +17,8 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
     "typescript": "latest"
   }
 }
